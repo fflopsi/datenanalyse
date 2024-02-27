@@ -15,4 +15,3 @@ in pkgs.mkShell {
     ]))
   ];
 }
-

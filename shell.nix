@@ -12,6 +12,7 @@ in pkgs.mkShell {
       python-pkgs.scipy
       python-pkgs.pandas
       python-pkgs.matplotlib
+      python-pkgs.scikit-learn
     ]))
   ];
 }
